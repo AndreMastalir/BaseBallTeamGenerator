@@ -16,4 +16,3 @@ Description of Demo Program:
 	This program allows you to input player names for a baseball team, then will return a team with randomized power attributes and position. The program will then allow you to manipulate the stats of a chosen player.
 Instructions:
 	This program is a user interaction program. You first run the program, then enter the names of the players you wish to be on your roster, could be anyone! The program will then ask you to enter the number of the player you wish change the attributes of, for example 1 will pick the first player entered. Then you’ll be guided along instructions on what to enter and finally, the program will print out the changed attributes of the chosen player.
-
